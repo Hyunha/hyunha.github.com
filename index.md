@@ -5,8 +5,6 @@ CTO, Softopia, Inc.
 
 ------------------
 
-![hyunha_kim](data/hhkim.png)
-
 #### Research Interests
 
 - Programming Languages
