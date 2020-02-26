@@ -25,7 +25,7 @@ CTO, Softopia, Inc.
 #### Courses
 
 - 2020 Spring [CSE1017] Programming Fundamentals
-- 2018 Fall [CSE3009] Compilers
+- 2018 Fall [CSE3009] Compiler Construction
 - 2017 Spring [ENE4014] [Programming Languages](https://hyunha.bitbucket.io/ene4014/2017)
 - 2013 Fall [CSE1017] Programming Fundamentals
 - 2013 Fall [ITE1009] C programming
