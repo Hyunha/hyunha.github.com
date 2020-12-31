@@ -37,4 +37,4 @@ CTO, Softopia, Inc.
 | Address             | 4th Engineering Building #319, Hanyangdaehak-ro 55, Ansan-si, Gyeonggi-do 15588 |
 | Office Phone Number | +82-31-400-3781    |
 | Email               | lagrato at GMail   |
-| Online Pages        | [Facebook](https://www.facebook.com/lagrato), [LinkedIn](http://www.linkedin.com/profile/view?id=242952584), [Scopus](http://www.scopus.com/authid/detail.url?authorId=15755697000), [DBPL](http://www.informatik.uni-trier.de/~ley/pers/hd/k/Kim:Hyunha.html), [Google Citation](http://scholar.google.com/citations?user=LDPpVfsAAAAJ&hl=en), [Research Gate](https://www.researchgate.net/profile/Hyunha_Kim) |
+| Online Pages        | [Facebook](https://www.facebook.com/lagrato), [LinkedIn](https://www.linkedin.com/in/hyunha-kim-68844569/), [Scopus](http://www.scopus.com/authid/detail.url?authorId=15755697000), [DBPL](http://www.informatik.uni-trier.de/~ley/pers/hd/k/Kim:Hyunha.html), [Google Citation](http://scholar.google.com/citations?user=LDPpVfsAAAAJ&hl=en), [Research Gate](https://www.researchgate.net/profile/Hyunha_Kim) |
