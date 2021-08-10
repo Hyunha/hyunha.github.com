@@ -24,6 +24,7 @@ CTO, Softopia, Inc.
 
 #### Courses
 
+- 2021 Fall [COM1002] [Programming 1](https://github.com/Hyunha/2021com1002)
 - 2021 Spring [CSE1017] Programming Fundamentals
 - 2021 Spring [CUL2101] Artificial Intelligence and Future Society
 - 2020 Spring [CSE1017] [Programming Fundamentals](https://github.com/Hyunha/2020cse1017)
