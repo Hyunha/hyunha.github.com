@@ -11,7 +11,7 @@ CTO, Softopia, Inc.
 - Program Analysis
 - Software Security
 
-#### Vita
+#### Vitae
 
 - Jul. 2017 - current, CTO, SOFTOPIA, Inc.
 - Mar. 2017 - current, Adjunct professor, [Hanyang University](http://www.hanyang.ac.kr) ERICA
