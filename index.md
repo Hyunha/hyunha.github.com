@@ -24,6 +24,7 @@ CTO, Softopia, Inc.
 
 #### Courses
 
+- 2023 Spring [CSE1017] Programming Fundamentals
 - 2022 Fall [COM1002] Programming 1
 - 2022 Spring [CSE1017] Programming Fundamentals
 - 2022 Spring [COM1003] Programming 2
