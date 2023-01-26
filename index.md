@@ -20,7 +20,7 @@ CTO, Softopia, Inc.
 - Mar. 2006 - Aug. 2013, Ph.D., Programming Languages Laboratory, [Hanyang University](http://www.hanyang.ac.kr) (advisor: [Kyung-Goo Doh](http://doggzone.github.io/home))
 - Sep. 2003 - Aug. 2005, M.S., Programming Languages Laboratory, [Hanyang University](http://www.hanyang.ac.kr)
 - Mar. 1999 - Aug. 2003, B.S., [Electrical engineering and Computer science](http://eecs.hanyang.ac.kr), [Hanyang University](http://www.hanyang.ac.kr)
-- Mar. 1996 - Feb. 1999, [Dongsan High School](http://www.dsgo.kr)
+- Mar. 1996 - Feb. 1999, [Dongsan High School](http://dsgo.kr)
 
 #### Courses
 
