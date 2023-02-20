@@ -41,7 +41,7 @@ CTO, Softopia, Inc.
 
 | Points | info. |
 | ------------------- | ------------------ |
-| Address             | Erica Convention Center #614, 55 Hanyangdaehak-ro, Sangnok-gu, Ansan, Gyeonggi-do 15588 |
+| Address             | Erica Convention Center (Hanyang Guest House) #614, 55 Hanyangdaehak-ro, Sangnok-gu, Ansan, Gyeonggi-do 15588 |
 | Office Phone Number | TBD    |
 | Email               | lagrato at GMail   |
 | Online Pages        | [Facebook](https://www.facebook.com/lagrato), [LinkedIn](https://www.linkedin.com/in/hyunha-kim-68844569/), [Scopus](http://www.scopus.com/authid/detail.url?authorId=15755697000), [DBPL](http://www.informatik.uni-trier.de/~ley/pers/hd/k/Kim:Hyunha.html), [Google Citation](http://scholar.google.com/citations?user=LDPpVfsAAAAJ&hl=en), [Research Gate](https://www.researchgate.net/profile/Hyunha_Kim), [Academic Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=174756) |
