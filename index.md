@@ -24,6 +24,8 @@ CTO, Softopia, Inc.
 
 #### Courses
 
+- 2023 Fall [CSE2016] Programming Methodology
+- 2023 Fall [COM1002] Programming 1
 - 2023 Spring [CSE1017] Programming Fundamentals
 - 2022 Fall [COM1002] Programming 1
 - 2022 Spring [CSE1017] Programming Fundamentals
