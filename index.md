@@ -19,11 +19,12 @@ CTO, Softopia, Inc.
 - Sep. 2013 - Dec. 2013, Instructor, [Hanyang University](http://www.hanyang.ac.kr) ERICA
 - Mar. 2006 - Aug. 2013, Ph.D., Programming Languages Laboratory, [Hanyang University](http://www.hanyang.ac.kr) (advisor: [Kyung-Goo Doh](http://doggzone.github.io/home))
 - Sep. 2003 - Aug. 2005, M.S., Programming Languages Laboratory, [Hanyang University](http://www.hanyang.ac.kr)
-- Mar. 1999 - Aug. 2003, B.S., [Electrical engineering and Computer science](http://eecs.hanyang.ac.kr), [Hanyang University](http://www.hanyang.ac.kr)
+- Mar. 1999 - Aug. 2003, B.S., Electrical engineering and Computer science, [Hanyang University](http://www.hanyang.ac.kr)
 - Mar. 1996 - Feb. 1999, [Dongsan High School](http://dsgo.kr)
 
 #### Courses
 
+- 2024 Fall [CSE2016] Programming Methodology
 - 2024 Spring [CSE1017] Programming Fundamentals
 - 2023 Fall [CSE2016] Programming Methodology
 - 2023 Fall [COM1002] Programming 1
