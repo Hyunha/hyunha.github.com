@@ -24,6 +24,7 @@ CTO, Softopia, Inc.
 
 #### Courses
 
+- 2025 Spring [CSE1017] Programming Fundamentals [Notice](https://github.com/Hyunha/hyunha.github.com/blob/master/cse1017notice.md)
 - 2024 Fall [CSE2016] Programming Methodology
 - 2024 Fall [ELE3034] Design & Analysis of Algorithms
 - 2024 Spring [CSE1017] Programming Fundamentals
