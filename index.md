@@ -24,7 +24,7 @@ CTO, Softopia, Inc.
 
 #### Courses
 
-- 2025 Spring [CSE1017] Programming Fundamentals [Notice](https://github.com/Hyunha/hyunha.github.com/blob/master/cse1017notice.md)
+- 2025 Spring [CSE1017] Programming Fundamentals
 - 2024 Fall [CSE2016] Programming Methodology
 - 2024 Fall [ELE3034] Design & Analysis of Algorithms
 - 2024 Spring [CSE1017] Programming Fundamentals
@@ -47,6 +47,5 @@ CTO, Softopia, Inc.
 
 | Points | info. |
 | ------------------- | ------------------ |
-| Address             | Erica Convention Center (Hanyang Guest House) #614, 55 Hanyangdaehak-ro, Sangnok-gu, Ansan, Gyeonggi-do 15588 |
 | Email               | lagrato at GMail   |
 | Online Pages        | [Facebook](https://www.facebook.com/lagrato), [LinkedIn](https://www.linkedin.com/in/hyunha-kim-68844569/), [Scopus](http://www.scopus.com/authid/detail.url?authorId=15755697000), [DBPL](http://www.informatik.uni-trier.de/~ley/pers/hd/k/Kim:Hyunha.html), [Google Citation](http://scholar.google.com/citations?user=LDPpVfsAAAAJ&hl=en), [Research Gate](https://www.researchgate.net/profile/Hyunha_Kim), [Academic Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=174756) |
