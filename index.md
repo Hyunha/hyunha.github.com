@@ -24,6 +24,8 @@ CTO, Softopia, Inc.
 
 #### Courses
 
+
+- 2025 Fall [COM2018] Object-Oriented Programming
 - 2025 Spring [CSE1017] Programming Fundamentals
 - 2024 Fall [CSE2016] Programming Methodology
 - 2024 Fall [ELE3034] Design & Analysis of Algorithms
