@@ -37,12 +37,12 @@ CTO, Softopia, Inc.
 - 2022 Fall [COM1002] Programming 1
 - 2022 Spring [CSE1017] Programming Fundamentals
 - 2022 Spring [COM1003] Programming 2
-- 2021 Fall [COM1002] [Programming 1](https://github.com/Hyunha/2021com1002)
+- 2021 Fall [COM1002] Programming 1
 - 2021 Spring [CSE1017] Programming Fundamentals
 - 2021 Spring [CUL2101] Artificial Intelligence and Future Society
-- 2020 Spring [CSE1017] [Programming Fundamentals](https://github.com/Hyunha/2020cse1017)
+- 2020 Spring [CSE1017] Programming Fundamentals
 - 2018 Fall [CSE3009] [Compiler Construction](https://github.com/Hyunha/compiler2018)
-- 2017 Spring [ENE4014] [Programming Languages](https://hyunha.bitbucket.io/ene4014/2017)
+- 2017 Spring [ENE4014] Programming Languages
 - 2013 Fall [CSE1017] Programming Fundamentals
 - 2013 Fall [ITE1009] C programming
 
