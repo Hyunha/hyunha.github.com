@@ -1,7 +1,10 @@
-## Hyunha Kim (김현하)
+## Hyunha Kim (김현하) 
 
 Adjunct Professor, School of Computer Science, College of Computing, Hanyang University ERICA &
 CTO, Softopia, Inc.
+
+*Official documents use the spelling "Hyonha Kim".*
+
 
 ------------------
 
