@@ -27,6 +27,7 @@
 
 #### Courses
 
+- 2026 Fall [COM2018] Object-Oriented Programming
 - 2026 Spring [CSE1017] Programming Fundamentals
 - 2026 Spring [ELE3029] Automata & Formal Language Theory
 - 2025 Fall [COM2018] Object-Oriented Programming
